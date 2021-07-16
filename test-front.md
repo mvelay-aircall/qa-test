@@ -12,7 +12,7 @@ All basic functionalities are available and working and we want to ensure that t
 
 
 ### Goals…
-1. Write a test plan and automate what you think is relevant
+1. Read a test plan and to automate what you think is relevant
 2. Be accurate. Explain your choices (test plan, tools etc…). <br/> 
 Keep in mind that we are interested in technical skills as much as logic and mindset.
 
@@ -28,7 +28,7 @@ Add any relevant contribution you feel is important. As a QA Team, we own testin
 * A readme file explaining how to run it (a video works as well)
 
 ### Test details…
-* A google doc is ok
+* Test plan -> https://docs.google.com/spreadsheets/d/1cxOlQ8mVeqdff4tvgJPLwyUxf26Z_jwH5YaFs15gu68/edit#gid=0
 
 * Phone1 URL: https://phone.aircall.io/ <br/>
 Login: [...]<br/>
